@@ -1,2 +1,2 @@
 # assignment-6-Logistic-Regression
-Here logistic regression is applied on a bank dataset to predict whether the client has subscribed  to term deposit or not. 
+Here we have a data set of bank and we have to take the target variable as if the client has subscribed to a term deposit or not using relevant features using M/L model logistic regression. 
